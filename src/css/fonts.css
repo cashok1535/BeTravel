@@ -1,0 +1,38 @@
+@font-face {
+  font-family: OpenSans_Italic;
+  src:
+    url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.eot),
+    url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.woff),
+    url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.woff2);
+}
+@font-face {
+  font-family: OpenSans;
+  src:
+    url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.eot),
+    url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.woff),
+    url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.woff2);
+}
+@font-face {
+  font-family: PTSerif_Bold;
+  src:
+    url(../fonts/PTSerif-Bold.eot), url(../fonts/PTSerif-Bold.woff),
+    url(../fonts/PTSerif-Bold.woff2);
+}
+@font-face {
+  font-family: PTSerif_BoldItalic;
+  src:
+    url(../fonts/PTSerif-BoldItalic.eot), url(../fonts/PTSerif-BoldItalic.woff),
+    url(../fonts/PTSerif-BoldItalic.woff2);
+}
+@font-face {
+  font-family: PTSerif_Italic;
+  src:
+    url(../fonts/PTSerif-Italic.eot), url(../fonts/PTSerif-Italic.woff),
+    url(../fonts/PTSerif-Italic.woff2);
+}
+@font-face {
+  font-family: PTSerif;
+  src:
+    url(../fonts/PTSerif-Regular.eot), url(../fonts/PTSerif-Regular.woff),
+    url(../fonts/PTSerif-Regular.woff2);
+}
